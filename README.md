@@ -25,6 +25,7 @@ Lise öğrencisi | Yazılım öğreniyorum
 ## İletişim
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yb7765193@gmail.com)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yahyabalci.com)
 
 ---
 
