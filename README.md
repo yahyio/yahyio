@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Yahya
+# Merhaba, Ben Yahya
 
 Lise öğrencisi | Yazılımcı
 
@@ -8,7 +8,7 @@ Lise öğrencisi | Yazılımcı
 
 ## Hakkımda
 
- Tophane M.T.A.L. öğrencisiyim  
+   
  Web geliştirme ve programlama ile ilgileniyorum  
  Şu anda **İnstagram Otomasyonları** geliştiriyorum
  Gerçek projelerde deneyim kazanmak istiyorum
