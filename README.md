@@ -13,6 +13,8 @@ Lise öğrencisi | Yazılımcı
  Şu anda **İnstagram Otomasyonları** geliştiriyorum
  Gerçek projelerde deneyim kazanmak istiyorum
 
+ YAPTIGIM TÜM SİTELERE WEBSİTEMDEN ULAŞABİLRSİNİZ.
+
 ---
 
 ## Teknolojiler
