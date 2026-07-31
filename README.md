@@ -2,7 +2,7 @@
 
 # Merhaba, Ben Yahya
 
-Lise öğrencisi | Yazılımcı
+Yazılımcı
 
 ---
 
