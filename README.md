@@ -2,18 +2,14 @@
 
 # Merhaba, Ben Yahya
 
-Yazılımcı
+Just a Tech
 
 ---
 
 ## Hakkımda
 
    
- Web geliştirme ve programlama ile ilgileniyorum  
- Şu anda **İnstagram Otomasyonları** geliştiriyorum
- Gerçek projelerde deneyim kazanmak istiyorum
-
- YAPTIGIM TÜM SİTELERE WEBSİTEMDEN ULAŞABİLRSİNİZ.
+ Web geliştirme - Python Otomasyon - Roblox Scripting  
 
 ---
 
