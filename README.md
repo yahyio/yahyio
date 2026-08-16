@@ -1,32 +1,80 @@
 <div align="center">
 
-# Merhaba, Ben Yahya
+<img src="assets/banner.png" width="100%" alt="Yahya — Software Developer"/>
 
-Just a Tech
+<br><br>
 
----
+Building automation tools and web projects — turning ideas into working products, from social platform bots to browser-based hardware simulation.
 
-## Hakkımda
+**Currently:** open to new opportunities.
 
-   
- Web geliştirme - Python Otomasyon - Roblox Scripting  
+<br>
 
----
+<a href="https://github.com/yahyio"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&height=32" height="32" alt="GitHub"/></a>
+<a href="https://yahyabalci.com"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=googlechrome&logoColor=white&height=32" height="32" alt="Website"/></a>
+<a href="mailto:yb7765193@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white&height=32" height="32" alt="Email"/></a>
 
-## Teknolojiler
+<br><br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Lua-333333?style=for-the-badge&logo=lua&logoColor=white&height=34" height="34" alt="Lua"/>
+<img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white&height=34" height="34" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white&height=34" height="34" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white&height=34" height="34" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white&height=34" height="34" alt="HTML5"/>
+<img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white&height=34" height="34" alt="Git"/>
+</div>
 
-## İletişim
+<br>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yb7765193@gmail.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yahyabalci.com)
+## Projects
 
----
+<table width="100%">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yahyio&color=blue&style=flat-square)
+<tr>
+<td width="50%" valign="top">
 
+### [Phone Wheel](https://github.com/yahyio/phone-wheel) ★
+Turns your phone into a steering wheel for any PC racing game — no hardware, no app install. Virtual Xbox 360 controller driven by your phone's motion sensors from the browser. First-class F1 25/26 integration with live telemetry HUD and haptic feedback.
+
+`JavaScript` `Hardware Simulation`
+
+</td>
+<td width="50%" valign="top">
+
+### [Instagram Reels Automation](https://github.com/yahyio/instagram_reels_automation)
+Automated Reels posting across 100+ accounts.
+
+`JavaScript` `Automation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Instagram Auto DM](https://github.com/yahyio/instagram_auto_dm)
+Bulk automated DM sender for Instagram.
+
+`JavaScript` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### [Binance Oto Al Sat](https://github.com/yahyio/binance_oto_al_sat)
+Automated buy/sell bot for Binance.
+
+`JavaScript` `Trading Bot`
+
+</td>
+</tr>
+
+</table>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=yahyio&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yahyio&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="48%" alt="Top Languages"/>
+<img src="https://komarev.com/ghpvc/?username=yahyio&color=333333&style=for-the-badge&label=PROFILE+VIEWS" height="32" alt="Profile Views"/> <br>
 </div>
