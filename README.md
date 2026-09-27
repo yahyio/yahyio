@@ -41,10 +41,10 @@ Turns your phone into a steering wheel for any PC racing game — no hardware, n
 </td>
 <td width="50%" valign="top">
 
-### [Instagram Reels Automation](https://github.com/yahyio/instagram_reels_automation)
-Automated Reels posting across 100+ accounts.
+### [AI Simulation](https://github.com/yahyio/ai-simulations) ★ ★
+Two agents that start out knowing nothing and learn purely by trial and error. A 3D humanoid that teaches itself to walk and run, and a fleet of race cars that learn to lap any track.
 
-`JavaScript` `Automation`
+`Python` `Simulation`
 
 </td>
 </tr>
@@ -52,10 +52,10 @@ Automated Reels posting across 100+ accounts.
 <tr>
 <td width="50%" valign="top">
 
-### [Instagram Auto DM](https://github.com/yahyio/instagram_auto_dm)
-Bulk automated DM sender for Instagram.
+### [Video → 3D Map](https://github.com/yahyio/video-3d-map) ★ ★ ★
+Turn a phone video or a folder of photos into a 3D scene you can walk around in. Everything runs locally on your Windows PC: no uploads, no accounts, no cloud.
 
-`JavaScript` `Automation`
+`Python` `Technologia`
 
 </td>
 <td width="50%" valign="top">
