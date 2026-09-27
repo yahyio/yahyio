@@ -31,14 +31,16 @@ Building automation tools and web projects — turning ideas into working produc
 <table width="100%">
 
 <tr>
+
 <td width="50%" valign="top">
 
-### [Phone Wheel](https://github.com/yahyio/phone-wheel) ★
-Turns your phone into a steering wheel for any PC racing game — no hardware, no app install. Virtual Xbox 360 controller driven by your phone's motion sensors from the browser. First-class F1 25/26 integration with live telemetry HUD and haptic feedback.
+### [Video → 3D Map](https://github.com/yahyio/video-3d-map) ★ ★ ★
+Turn a phone video or a folder of photos into a 3D scene you can walk around in. Everything runs locally on your Windows PC: no uploads, no accounts, no cloud.
 
-`JavaScript` `Hardware Simulation`
+`Python` `Technologia`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### [AI Simulation](https://github.com/yahyio/ai-simulations) ★ ★
@@ -52,10 +54,10 @@ Two agents that start out knowing nothing and learn purely by trial and error. A
 <tr>
 <td width="50%" valign="top">
 
-### [Video → 3D Map](https://github.com/yahyio/video-3d-map) ★ ★ ★
-Turn a phone video or a folder of photos into a 3D scene you can walk around in. Everything runs locally on your Windows PC: no uploads, no accounts, no cloud.
+### [Phone Wheel](https://github.com/yahyio/phone-wheel) ★
+Turns your phone into a steering wheel for any PC racing game — no hardware, no app install. Virtual Xbox 360 controller driven by your phone's motion sensors from the browser. First-class F1 25/26 integration with live telemetry HUD and haptic feedback.
 
-`Python` `Technologia`
+`JavaScript` `Hardware Simulation`
 
 </td>
 <td width="50%" valign="top">
